@@ -1,6 +1,6 @@
 #Install plyr & dplyr packages if you have not already
-##install.packages("plyr")
-##install.packages("dplyr")
+install.packages("plyr")
+install.packages("dplyr")
 
 ##The Samsung folder (UCI HAR Dataset) must be in your working directory
 
